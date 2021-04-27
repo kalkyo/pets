@@ -1,0 +1,14 @@
+{
+  "name": "328/pets",
+  "author": [
+    {
+      "name": "Peter Eang",
+      "email": "peang@greenriver.edu",
+      "name": "James Wunder",
+      "email": "jwunder@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
